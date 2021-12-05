@@ -14,7 +14,7 @@ export const POOL_GRAPH_URLS = {
 interface IAddresses {
   [key: number]: { [key: string]: string };
 }
-
+  
 export const addresses: IAddresses = {
   56: {
     DAI_ADDRESS: "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3", // duplicate
